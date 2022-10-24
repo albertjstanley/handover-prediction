@@ -45,7 +45,7 @@ class AccessPointSelector:
         for access_point in access_points: 
             quality = self.predict_future_quality(access_point)
             if quality > best_value: 
-                best_value = quality
+                min_value = quality
                 best_access_point = access_point
 
             scores.append(quality)
