@@ -1,8 +1,12 @@
-from handover.model import AccessPointManager, AccessPointSelector
+from handover.selector import AccessPointManager, AccessPointSelector
 from handover.data import AccessPointData
 import pandas as pd
 
 class Simulator:
+    """
+    Handles reading csv file and calling selector after each timestep
+    """
+
     def __init__(self, csv_path):
         self.csv_path = csv_path
         self.cur_timestamp = None
@@ -12,12 +16,17 @@ class Simulator:
 
     def _evaluate_last_timestep(self, access_points):
         registered_pci = self.timetamp_to_registered_pci[self.cur_timestamp]
-        print(f"Registered: {registered_pci}", access_points)
-
-        self.ap_selector.choose(access_points)
+        chosen = self.ap_selector.choose(access_points)
         
+        print(f"Currently Registered: {registered_pci}")
+        print(f"Choices: {access_points}")
+        print(f"Chosen: {chosen.pci}")
+        print("______________________")
 
     def run(self):
+        """
+        Entry point for running predictor on csv file.
+        """
         self.df = self.load_data()
 
         access_points = set()
@@ -41,6 +50,7 @@ class Simulator:
 
 
     def load_data(self):
+        # load the data from the csv path
         df = pd.read_csv(self.csv_path)
         df = df.drop_duplicates()
         df = df[df['mPci'] > 0]
