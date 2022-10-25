@@ -30,12 +30,7 @@ class AccessPointSelector:
             return values[0], None
 
         # Compute average slope
-        # If len(values) != len(timestamps), chance to get divide by 0 error
-        # We avoid that situation here
-        if(len(np.unique(np.array(timestamps))) != len(np.array(values))):
-            gradients = np.gradient(np.array(values))
-        else:
-            gradients = np.gradient(np.array(values), np.array(timestamps))
+        gradients = np.gradient(np.array(values), np.array(timestamps))
         avg_gradient = np.mean(gradients)
         predicted_future_quality = values[-1] + (timestamps[-1] - current_timestamp) * avg_gradient
         if(avg_gradient >= 0):

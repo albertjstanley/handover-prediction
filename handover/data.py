@@ -25,6 +25,9 @@ class AccessPoint:
         self.pci = pci
     
     def add_data(self, timestamp, data):
+        if timestamp in self.timestamps:
+            return
+
         self.timestamps.append(timestamp)
         self.timestamp_to_data[timestamp] = data
 
