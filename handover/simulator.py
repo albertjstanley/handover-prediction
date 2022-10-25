@@ -16,11 +16,12 @@ class Simulator:
 
     def _evaluate_last_timestep(self, access_points):
         registered_pci = self.timetamp_to_registered_pci[self.cur_timestamp]
-        chosen = self.ap_selector.choose(access_points, self.cur_timestamp)
+        chosen_access_point, time_until_threshold = self.ap_selector.choose(access_points, self.cur_timestamp)
         
         print(f"Currently Registered: {registered_pci}")
         print(f"Choices: {access_points}")
-        print(f"Chosen: {chosen.pci}")
+        print(f"Chosen: {chosen_access_point.pci}")
+        print(f"Time until Threshold Reached: {time_until_threshold}")
         print("______________________")
 
     def run(self):
