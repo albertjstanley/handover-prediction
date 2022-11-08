@@ -13,6 +13,13 @@ class Simulator:
         self.ap_manager = AccessPointManager()
         self.ap_selector = AccessPointSelector()
         self.timetamp_to_registered_pci = {}
+        self.correct_predictions = 0.0
+        self.total_predictions = 0.0
+
+    def print_metrics(self):
+        print(f"ACCURACY METRICS:")
+        print(f"Correctly Predicted: {self.correct_predictions} out of total: {self.total_predictions}")
+        print(f"Accuracy: {(self.correct_predictions/self.total_predictions):2.2%}")
 
     def _evaluate_last_timestep(self, access_points):
         registered_pci = self.timetamp_to_registered_pci[self.cur_timestamp]
@@ -23,6 +30,9 @@ class Simulator:
         print(f"Chosen: {chosen_access_point.pci}")
         print(f"Time until Threshold Reached: {time_until_threshold}")
         print("______________________")
+        if(registered_pci == chosen_access_point.pci):
+            self.correct_predictions = self.correct_predictions + 1
+        self.total_predictions = self.total_predictions + 1
 
     def run(self):
         """
@@ -48,6 +58,8 @@ class Simulator:
             access_points.add(ap)
 
         self._evaluate_last_timestep(access_points)
+
+        self.print_metrics()
 
 
     def load_data(self):
