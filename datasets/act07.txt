@@ -1,0 +1,28 @@
+11-20 17:25:05.582  1050  1580 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+11-20 17:25:05.640  1050  1228 I ActivityManager: Start proc 15219:edu.ucla.cs.zyuan.apps.weblatency/u0a292 for activity edu.ucla.cs.zyuan.apps.weblatency/.MainActivity
+11-20 17:36:57.135  1050  4163 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity bnds=[843,600][1045,858]} from uid 10027
+11-20 17:36:57.205  1050  1228 I ActivityManager: Start proc 16977:com.google.example.android.basicactivityrecognitiontransitionsample/u0a161 for activity com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity
+11-20 17:36:58.428 16977 16977 D MainActivity: App initialized.
+11-20 17:36:58.653  1050  1225 I ActivityManager: Displayed com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity: +1s507ms
+11-20 17:36:59.929 16977 16977 D MainActivity: enableActivityTransitions()
+11-20 17:37:00.003 16977 16977 D MainActivity: Transitions Api was successfully registered.
+11-20 17:37:00.004 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:37:00.012 16977 16977 D MainActivity: Transition: STILL (ENTER)   17:37:00
+11-20 17:37:01.593   484  2157 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-20 17:37:01.593   484  2157 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-20 17:37:01.846  1050  4163 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+11-20 17:37:34.136 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:37:34.150 16977 16977 D MainActivity: Transition: STILL (EXIT)   17:37:34
+11-20 17:37:34.162 16977 16977 D MainActivity: Transition: WALKING (ENTER)   17:37:34
+11-20 17:39:57.926 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:39:57.975 16977 16977 D MainActivity: Transition: WALKING (EXIT)   17:39:57
+11-20 17:39:58.000 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   17:39:57
+11-20 17:40:34.870 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:40:34.936 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   17:40:34
+11-20 17:40:34.963 16977 16977 D MainActivity: Transition: WALKING (ENTER)   17:40:34
+11-20 17:42:14.473 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:42:14.494 16977 16977 D MainActivity: Transition: WALKING (EXIT)   17:42:14
+11-20 17:42:14.521 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   17:42:14
+11-20 17:42:36.705 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-20 17:42:36.776 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   17:42:36
+11-20 17:42:36.795 16977 16977 D MainActivity: Transition: WALKIN
