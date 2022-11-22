@@ -75,7 +75,9 @@ def main(input_log_file, output_log_file):
                             ta = ta[:-len("}")]
                         # print("ta:", ta)
                         # print("1")
-                curLog = ",".join([time, mRegistered, mTimeStamp, mPci, mTac, mEarfcn, mMcc + mMnc, ss, rsrp, rsrq, rssnr, cqi, ta])
+                log_values = [time, mRegistered, mTimeStamp, mPci, mTac, mEarfcn, mMcc + mMnc, ss, rsrp, rsrq, rssnr, cqi, ta]
+                log_values = [value.strip() for value in log_values]
+                curLog = ",".join(log_values)
                 curLog = curLog.strip()
                 curLog = curLog + '\n'
                 if curLog != lastLog and is_valid_log(curLog):
