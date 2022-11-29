@@ -1,0 +1,141 @@
+11-21 15:06:20.320 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=272.19193, y[0]=1115.411, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=10, eventTime=137619383, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.359 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=322.91617, y[0]=1130.3665, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=4, eventTime=137619417, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.376 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=364.08054, y[0]=1148.0366, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=4, eventTime=137619451, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.393 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=383.8486, y[0]=1156.9243, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=137619468, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.410 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=400.79736, y[0]=1165.8987, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619485, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.427 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=413.46973, y[0]=1173.6465, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619502, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.444 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=424.33093, y[0]=1179.5985, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619519, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.463 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=432.40237, y[0]=1183.7012, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619535, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.477 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=439.45493, y[0]=1187.6366, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619552, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.494 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=445.32275, y[0]=1189.7743, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619569, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.511 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=451.2165, y[0]=1191.7388, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619586, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.528 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=457.0561, y[0]=1194.3707, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619603, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.545 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=463.56345, y[0]=1198.9226, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619620, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.562 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=472.00317, y[0]=1204.8019, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619636, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.595 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=483.93076, y[0]=1212.2461, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619653, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.612 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=514.8195, y[0]=1232.8646, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=4, eventTime=137619687, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.629 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=530.56714, y[0]=1244.6753, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619704, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.646 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=547.0834, y[0]=1257.2667, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619721, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.663 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=569.0405, y[0]=1274.3059, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619737, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.680 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=589.5481, y[0]=1292.1932, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=137619754, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.689 16977 16977 W ViewRootImpl[MainActivity]: Dropping event due to no window focus: MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=597.0, y[0]=1296.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=137619760, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.690 16977 16977 W ViewRootImpl[MainActivity]: Cancelling event due to no window focus: MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=597.0, y[0]=1296.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=137619768, downTime=137619229, deviceId=6, source=0x1002 }
+11-21 15:06:20.693 16977 16977 W ViewRootImpl[MainActivity]: Cancelling event due to no window focus: MotionEvent { action=ACTION_CANCEL, actionButton=0, id[0]=0, x[0]=597.0, y[0]=1296.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=137619768, downTime=137619229, deviceId=6, source=0x1002 }
+11-22 12:52:55.220 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 12:52:55.276 16977 16977 D MainActivity: Transition: STILL (EXIT)   12:52:55
+11-22 12:52:55.289 16977 16977 D MainActivity: Transition: WALKING (ENTER)   12:52:55
+11-22 12:53:31.859 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 12:53:31.915 16977 16977 D MainActivity: Transition: WALKING (EXIT)   12:53:31
+11-22 12:53:31.947 16977 16977 D MainActivity: Transition: STILL (ENTER)   12:53:31
+11-22 12:58:41.133  1050  2481 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+11-22 12:58:41.187  1050  1228 I ActivityManager: Start proc 20204:edu.ucla.cs.zyuan.apps.weblatency/u0a292 for activity edu.ucla.cs.zyuan.apps.weblatency/.MainActivity
+11-22 12:58:41.321 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 12:58:41.338 16977 16977 D MainActivity: Transition: STILL (EXIT)   12:58:41
+11-22 12:58:41.351 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   12:58:41
+11-22 12:58:46.108   484   535 W SurfaceFlinger: Attempting to destroy on removed layer: AppWindowToken{adbd28d token=Token{d5e2724 ActivityRecord{18f23b7 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t170}}}#0
+11-22 12:58:46.333  1050  5138 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity bnds=[843,600][1045,858]} from uid 10027
+11-22 12:58:47.511 16977 16977 D MainActivity: disableActivityTransitions()
+11-22 12:58:47.542 16977 16977 D MainActivity: Transitions successfully unregistered.
+11-22 12:58:48.486 16977 16977 D MainActivity: enableActivityTransitions()
+11-22 12:58:48.539 16977 16977 D MainActivity: Transitions Api was successfully registered.
+11-22 12:58:48.559 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 12:58:48.565 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   12:58:48
+11-22 12:58:53.263  1050  4383 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+11-22 12:58:53.769  1050  1225 I ActivityManager: Displayed edu.ucla.cs.zyuan.apps.weblatency/.MainActivity: +496ms
+11-22 12:58:53.840   484  1569 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 12:58:53.841   484  1569 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 12:58:58.782   484   528 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-22 12:58:58.782   484   528 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-22 12:58:58.784   484   602 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-22 12:58:58.785   484   602 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-22 12:58:58.785   484  1569 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 12:58:58.785   484  1569 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 12:59:03.005   484  1569 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-22 12:59:03.005   484  1569 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-22 12:59:04.517   484   602 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 12:59:04.517   484   602 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{49ca95b token=Token{a80006a ActivityRecord{9f31e55 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t172}}})/@0x8b3f2f - animation-leash#0
+11-22 13:00:40.858 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:00:40.875 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   13:00:40
+11-22 13:00:40.887 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:00:40
+11-22 13:06:56.697 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:06:56.722 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:06:56
+11-22 13:06:56.730 16977 16977 D MainActivity: Transition: STILL (ENTER)   13:06:56
+11-22 13:08:57.012 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:08:57.021 16977 16977 D MainActivity: Transition: STILL (EXIT)   13:08:57
+11-22 13:08:57.034 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:08:57
+11-22 13:10:08.241 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:10:08.298 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:10:08
+11-22 13:10:08.324 16977 16977 D MainActivity: Transition: STILL (ENTER)   13:10:08
+11-22 13:17:05.610 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:17:05.651 16977 16977 D MainActivity: Transition: STILL (EXIT)   13:17:05
+11-22 13:17:05.662 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:17:05
+11-22 13:17:27.545 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:17:27.563 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:17:27
+11-22 13:17:27.575 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   13:17:27
+11-22 13:41:03.756 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:41:03.809 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   13:41:03
+11-22 13:41:03.826 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:41:03
+11-22 13:43:56.295 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:43:56.321 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:43:56
+11-22 13:43:56.329 16977 16977 D MainActivity: Transition: STILL (ENTER)   13:43:56
+11-22 13:49:04.070 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:49:04.082 16977 16977 D MainActivity: Transition: STILL (EXIT)   13:49:04
+11-22 13:49:04.106 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:49:04
+11-22 13:49:46.346 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:49:46.364 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:49:46
+11-22 13:49:46.372 16977 16977 D MainActivity: Transition: STILL (ENTER)   13:49:46
+11-22 13:55:00.468 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:55:00.487 16977 16977 D MainActivity: Transition: STILL (EXIT)   13:55:00
+11-22 13:55:00.499 16977 16977 D MainActivity: Transition: WALKING (ENTER)   13:55:00
+11-22 13:55:31.768 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 13:55:31.794 16977 16977 D MainActivity: Transition: WALKING (EXIT)   13:55:31
+11-22 13:55:31.811 16977 16977 D MainActivity: Transition: STILL (ENTER)   13:55:31
+11-22 14:05:19.183 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:05:19.194 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:05:19
+11-22 14:05:19.207 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:05:19
+11-22 14:05:50.888 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:05:50.905 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:05:50
+11-22 14:05:50.925 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:05:50
+11-22 14:08:43.502 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:08:43.528 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:08:43
+11-22 14:08:43.539 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:08:43
+11-22 14:12:11.073 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:12:11.089 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:12:11
+11-22 14:12:11.097 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:12:11
+11-22 14:14:57.812 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:14:57.829 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:14:57
+11-22 14:14:57.843 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:14:57
+11-22 14:16:11.085 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:16:11.093 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:16:11
+11-22 14:16:11.117 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:16:11
+11-22 14:32:38.558 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:32:38.567 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:32:38
+11-22 14:32:38.596 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   14:32:38
+11-22 14:33:00.575 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:33:00.590 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   14:33:00
+11-22 14:33:00.609 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:33:00
+11-22 14:33:33.360 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:33:33.407 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:33:33
+11-22 14:33:33.427 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:33:33
+11-22 14:33:51.707 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:33:51.723 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:33:51
+11-22 14:33:51.737 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:33:51
+11-22 14:37:16.963 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:37:16.976 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:37:16
+11-22 14:37:16.983 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:37:16
+11-22 14:38:10.365 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:38:10.383 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:38:10
+11-22 14:38:10.392 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:38:10
+11-22 14:39:36.223 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:39:36.240 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:39:36
+11-22 14:39:36.249 16977 16977 D MainActivity: Transition: STILL (ENTER)   14:39:36
+11-22 14:42:29.629 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:42:29.653 16977 16977 D MainActivity: Transition: STILL (EXIT)   14:42:29
+11-22 14:42:29.662 16977 16977 D MainActivity: Transition: WALKING (ENTER)   14:42:29
+11-22 14:43:14.633 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 14:43:14.659 16977 16977 D MainActivity: Transition: WALKING (EXIT)   14:43:14
+11-22 14:43:14.675 16977 16977 D MainActivity: Transition: UNKNOWN (ENTER)   14:43:14
+11-22 15:07:04.596 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-22 15:07:04.621 16977 16977 D MainActivity: Transition: UNKNOWN (EXIT)   15:07:04
+11-22 15:07:04.631 16977 16977 D MainActivity: Transition: WALKING (ENTER)   15:07:04
+11-22 15:11:28.921 16977 16977 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsample
