@@ -1,0 +1,181 @@
+11-30 09:26:31.136   486  1982 W SurfaceFlinger: Attempting to set client state on removed layer: com.android.vending/com.google.android.finsky.activities.MainActivity#0
+11-30 09:26:31.136   486  1982 W SurfaceFlinger: Attempting to destroy on removed layer: com.android.vending/com.google.android.finsky.activities.MainActivity#0
+11-30 09:29:14.275  1115  4243 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity bnds=[843,600][1045,858]} from uid 10027
+11-30 09:29:14.336  1115  1237 I ActivityManager: Start proc 15391:com.google.example.android.basicactivityrecognitiontransitionsample/u0a161 for activity com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity
+11-30 09:29:15.183 15391 15391 D MainActivity: App initialized.
+11-30 09:29:15.347  1115  1234 I ActivityManager: Displayed com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity: +1s58ms
+11-30 09:29:15.353   486  1392 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{e668a64 token=Token{63a0bf7 ActivityRecord{1d91bf6 u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t176}}})/@0x73c5f0b - animation-leash#0
+11-30 09:29:15.353   486  1392 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{e668a64 token=Token{63a0bf7 ActivityRecord{1d91bf6 u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t176}}})/@0x73c5f0b - animation-leash#0
+11-30 09:29:16.726 15391 15391 D MainActivity: enableActivityTransitions()
+11-30 09:29:16.797 15391 15391 D MainActivity: Transitions Api was successfully registered.
+11-30 09:29:16.812 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:29:16.820 15391 15391 D MainActivity: Transition: UNKNOWN (ENTER)   09:29:16
+11-30 09:29:18.885   486   591 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:18.886   486   591 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:18.887   486   591 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:18.887   486   591 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:19.629  1115  5149 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+11-30 09:29:19.694  1115  1237 I ActivityManager: Start proc 15432:edu.ucla.cs.zyuan.apps.weblatency/u0a292 for activity edu.ucla.cs.zyuan.apps.weblatency/.MainActivity
+11-30 09:29:21.527  1115  1234 I ActivityManager: Displayed edu.ucla.cs.zyuan.apps.weblatency/.MainActivity: +1s893ms
+11-30 09:29:25.456   486   591 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-30 09:29:25.456   486   591 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+11-30 09:29:26.561   486   534 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{e668a64 token=Token{63a0bf7 ActivityRecord{1d91bf6 u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t176}}})/@0x73c5f0b - animation-leash#0
+11-30 09:29:26.561   486   534 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{e668a64 token=Token{63a0bf7 ActivityRecord{1d91bf6 u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t176}}})/@0x73c5f0b - animation-leash#0
+11-30 09:29:31.294   486   591 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:31.294   486   591 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:31.297   486   533 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:31.298   486   533 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+11-30 09:29:32.115   486   534 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{e5f3b24 token=Token{85807b7 ActivityRecord{b86aeb6 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t177}}})/@0x56d8ecb - animation-leash#0
+11-30 09:29:32.116   486   534 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{e5f3b24 token=Token{85807b7 ActivityRecord{b86aeb6 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t177}}})/@0x56d8ecb - animation-leash#0
+11-30 09:34:53.873 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:34:53.903 15391 15391 D MainActivity: Transition: UNKNOWN (EXIT)   09:34:53
+11-30 09:34:53.915 15391 15391 D MainActivity: Transition: WALKING (ENTER)   09:34:53
+11-30 09:35:08.436 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:35:08.530 15391 15391 D MainActivity: Transition: WALKING (EXIT)   09:35:08
+11-30 09:35:08.549 15391 15391 D MainActivity: Transition: STILL (ENTER)   09:35:08
+11-30 09:40:13.026 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:40:13.038 15391 15391 D MainActivity: Transition: STILL (EXIT)   09:40:13
+11-30 09:40:13.058 15391 15391 D MainActivity: Transition: UNKNOWN (ENTER)   09:40:13
+11-30 09:40:49.624 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:40:49.693 15391 15391 D MainActivity: Transition: UNKNOWN (EXIT)   09:40:49
+11-30 09:40:49.720 15391 15391 D MainActivity: Transition: STILL (ENTER)   09:40:49
+11-30 09:41:25.500 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:41:25.529 15391 15391 D MainActivity: Transition: STILL (EXIT)   09:41:25
+11-30 09:41:25.548 15391 15391 D MainActivity: Transition: WALKING (ENTER)   09:41:25
+11-30 09:48:28.719 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:48:28.761 15391 15391 D MainActivity: Transition: WALKING (EXIT)   09:48:28
+11-30 09:48:28.775 15391 15391 D MainActivity: Transition: UNKNOWN (ENTER)   09:48:28
+11-30 09:49:11.768 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:49:11.790 15391 15391 D MainActivity: Transition: UNKNOWN (EXIT)   09:49:11
+11-30 09:49:11.800 15391 15391 D MainActivity: Transition: STILL (ENTER)   09:49:11
+11-30 09:50:49.263 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:50:49.279 15391 15391 D MainActivity: Transition: STILL (EXIT)   09:50:49
+11-30 09:50:49.287 15391 15391 D MainActivity: Transition: UNKNOWN (ENTER)   09:50:49
+11-30 09:54:31.549 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 09:54:31.575 15391 15391 D MainActivity: Transition: UNKNOWN (EXIT)   09:54:31
+11-30 09:54:31.587 15391 15391 D MainActivity: Transition: WALKING (ENTER)   09:54:31
+11-30 10:04:21.028 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 10:04:21.069 15391 15391 D MainActivity: Transition: WALKING (EXIT)   10:04:21
+11-30 10:04:21.095 15391 15391 D MainActivity: Transition: STILL (ENTER)   10:04:21
+11-30 10:37:21.191  1115  1419 W InputDispatcher: channel 'c922367 com.android.vending/com.google.android.finsky.activities.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+11-30 10:37:21.191  1115  1419 E InputDispatcher: channel 'c922367 com.android.vending/com.google.android.finsky.activities.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+11-30 10:37:21.212  1115  1572 I WindowManager: WIN DEATH: Window{c922367 u0 com.android.vending/com.google.android.finsky.activities.MainActivity}
+11-30 10:37:21.212  1115  1572 W InputDispatcher: Attempted to unregister already unregistered input channel 'c922367 com.android.vending/com.google.android.finsky.activities.MainActivity (server)'
+11-30 11:47:10.788 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 11:47:10.820 15391 15391 D MainActivity: Transition: STILL (EXIT)   11:47:10
+11-30 11:47:10.836 15391 15391 D MainActivity: Transition: WALKING (ENTER)   11:47:10
+11-30 11:48:03.654 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 11:48:03.674 15391 15391 D MainActivity: Transition: WALKING (EXIT)   11:48:03
+11-30 11:48:03.686 15391 15391 D MainActivity: Transition: STILL (ENTER)   11:48:03
+11-30 11:50:33.857 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 11:50:33.887 15391 15391 D MainActivity: Transition: STILL (EXIT)   11:50:33
+11-30 11:50:33.902 15391 15391 D MainActivity: Transition: WALKING (ENTER)   11:50:33
+11-30 12:02:06.573 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:02:06.593 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:02:06
+11-30 12:02:06.604 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:02:06
+11-30 12:02:58.112 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:02:58.186 15391 15391 D MainActivity: Transition: STILL (EXIT)   12:02:58
+11-30 12:02:58.220 15391 15391 D MainActivity: Transition: WALKING (ENTER)   12:02:58
+11-30 12:05:49.440 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:05:49.457 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:05:49
+11-30 12:05:49.467 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:05:49
+11-30 12:07:26.615 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:07:26.632 15391 15391 D MainActivity: Transition: STILL (EXIT)   12:07:26
+11-30 12:07:26.642 15391 15391 D MainActivity: Transition: WALKING (ENTER)   12:07:26
+11-30 12:08:39.874 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:08:39.896 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:08:39
+11-30 12:08:39.915 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:08:39
+11-30 12:09:05.491 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:09:05.527 15391 15391 D MainActivity: Transition: STILL (EXIT)   12:09:05
+11-30 12:09:05.545 15391 15391 D MainActivity: Transition: WALKING (ENTER)   12:09:05
+11-30 12:12:17.596 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:12:17.650 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:12:17
+11-30 12:12:17.674 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:12:17
+11-30 12:12:35.998 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:12:36.034 15391 15391 D MainActivity: Transition: STILL (EXIT)   12:12:36
+11-30 12:12:36.046 15391 15391 D MainActivity: Transition: WALKING (ENTER)   12:12:36
+11-30 12:14:05.051 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:14:05.096 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:14:05
+11-30 12:14:05.136 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:14:05
+11-30 12:58:26.714 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:58:26.740 15391 15391 D MainActivity: Transition: STILL (EXIT)   12:58:26
+11-30 12:58:26.766 15391 15391 D MainActivity: Transition: WALKING (ENTER)   12:58:26
+11-30 12:59:49.890 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 12:59:49.910 15391 15391 D MainActivity: Transition: WALKING (EXIT)   12:59:49
+11-30 12:59:49.919 15391 15391 D MainActivity: Transition: STILL (ENTER)   12:59:49
+11-30 13:02:21.561 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:02:21.586 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:02:21
+11-30 13:02:21.597 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:02:21
+11-30 13:02:52.105 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:02:52.136 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:02:52
+11-30 13:02:52.152 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:02:52
+11-30 13:03:17.277 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:03:17.295 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:03:17
+11-30 13:03:17.305 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:03:17
+11-30 13:13:49.557 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:13:49.587 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:13:49
+11-30 13:13:49.612 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:13:49
+11-30 13:15:26.025 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:15:26.087 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:15:26
+11-30 13:15:26.118 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:15:26
+11-30 13:17:02.414 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:17:02.435 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:17:02
+11-30 13:17:02.446 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:17:02
+11-30 13:19:16.179 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:19:16.225 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:19:16
+11-30 13:19:16.242 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:19:16
+11-30 13:21:43.387 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:21:43.428 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:21:43
+11-30 13:21:43.447 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:21:43
+11-30 13:31:53.868 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:31:53.905 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:31:53
+11-30 13:31:53.939 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:31:53
+11-30 13:33:46.008 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:33:46.045 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:33:46
+11-30 13:33:46.065 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:33:46
+11-30 13:34:42.094 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:34:42.107 15391 15391 D MainActivity: Transition: STILL (EXIT)   13:34:42
+11-30 13:34:42.116 15391 15391 D MainActivity: Transition: WALKING (ENTER)   13:34:42
+11-30 13:35:26.109 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 13:35:26.131 15391 15391 D MainActivity: Transition: WALKING (EXIT)   13:35:26
+11-30 13:35:26.140 15391 15391 D MainActivity: Transition: STILL (ENTER)   13:35:26
+11-30 14:14:59.909 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 14:14:59.923 15391 15391 D MainActivity: Transition: STILL (EXIT)   14:14:59
+11-30 14:14:59.933 15391 15391 D MainActivity: Transition: WALKING (ENTER)   14:14:59
+11-30 14:15:25.455 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 14:15:25.465 15391 15391 D MainActivity: Transition: WALKING (EXIT)   14:15:25
+11-30 14:15:25.484 15391 15391 D MainActivity: Transition: STILL (ENTER)   14:15:25
+11-30 14:17:34.650 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 14:17:34.698 15391 15391 D MainActivity: Transition: STILL (EXIT)   14:17:34
+11-30 14:17:34.726 15391 15391 D MainActivity: Transition: WALKING (ENTER)   14:17:34
+11-30 14:18:21.586 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 14:18:21.649 15391 15391 D MainActivity: Transition: WALKING (EXIT)   14:18:21
+11-30 14:18:21.710 15391 15391 D MainActivity: Transition: STILL (ENTER)   14:18:21
+11-30 15:50:49.225 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:50:49.247 15391 15391 D MainActivity: Transition: STILL (EXIT)   15:50:49
+11-30 15:50:49.273 15391 15391 D MainActivity: Transition: WALKING (ENTER)   15:50:49
+11-30 15:51:32.582 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:51:32.611 15391 15391 D MainActivity: Transition: WALKING (EXIT)   15:51:32
+11-30 15:51:32.624 15391 15391 D MainActivity: Transition: STILL (ENTER)   15:51:32
+11-30 15:53:37.549 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:53:37.580 15391 15391 D MainActivity: Transition: STILL (EXIT)   15:53:37
+11-30 15:53:37.604 15391 15391 D MainActivity: Transition: WALKING (ENTER)   15:53:37
+11-30 15:54:14.233 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:54:14.251 15391 15391 D MainActivity: Transition: WALKING (EXIT)   15:54:14
+11-30 15:54:14.260 15391 15391 D MainActivity: Transition: STILL (ENTER)   15:54:14
+11-30 15:54:57.994 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:54:58.095 15391 15391 D MainActivity: Transition: STILL (EXIT)   15:54:58
+11-30 15:54:58.110 15391 15391 D MainActivity: Transition: WALKING (ENTER)   15:54:58
+11-30 15:55:41.986 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:55:42.064 15391 15391 D MainActivity: Transition: WALKING (EXIT)   15:55:41
+11-30 15:55:42.098 15391 15391 D MainActivity: Transition: UNKNOWN (ENTER)   15:55:42
+11-30 15:56:00.318 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 15:56:00.337 15391 15391 D MainActivity: Transition: UNKNOWN (EXIT)   15:56:00
+11-30 15:56:00.351 15391 15391 D MainActivity: Transition: WALKING (ENTER)   15:56:00
+11-30 16:01:26.794 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 16:01:26.904 15391 15391 D MainActivity: Transition: WALKING (EXIT)   16:01:26
+11-30 16:01:26.920 15391 15391 D MainActivity: Transition: STILL (ENTER)   16:01:26
+11-30 16:08:08.371 15391 15391 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+11-30 16:08:08.393 15391 15391 D MainActivity: Transition: STILL (EXIT)   16:08:08
+11-30 16:08:08.409 15391 15391 D MainActivity: Transition: WALKING (ENTER)   16:08:08
+11-30 16:08:40.222 15391 15391 D MainActivity: onReceive(): Int
