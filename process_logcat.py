@@ -2,7 +2,7 @@ import sys
 
 # input specifications
 # inputLogFolder = "./original/"
-# logFile = "test4.txt"
+# logFile = "signal11.txt"
 # input_log_file = inputLogFolder + logFile
 
 # output specificiations

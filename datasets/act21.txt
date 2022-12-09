@@ -1,0 +1,171 @@
+12-03 19:48:27.065  1116  2436 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=edu.ucla.cs.zyuan.apps.weblatency/.MainActivity bnds=[843,858][1045,1116]} from uid 10027
+12-03 19:48:27.126  1116  1237 I ActivityManager: Start proc 800:edu.ucla.cs.zyuan.apps.weblatency/u0a292 for activity edu.ucla.cs.zyuan.apps.weblatency/.MainActivity
+12-03 19:48:29.025  1116  1234 I ActivityManager: Displayed edu.ucla.cs.zyuan.apps.weblatency/.MainActivity: +1s864ms
+12-03 19:48:30.713   484   525 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-03 19:48:30.713   484   525 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-03 19:48:31.152  1116  2435 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity bnds=[843,600][1045,858]} from uid 10027
+12-03 19:48:31.211  1116  1237 I ActivityManager: Start proc 1191:com.google.example.android.basicactivityrecognitiontransitionsample/u0a161 for activity com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity
+12-03 19:48:31.985  1191  1191 D MainActivity: App initialized.
+12-03 19:48:32.140  1116  1234 I ActivityManager: Displayed com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity: +973ms
+12-03 19:48:33.124  1191  1191 D MainActivity: enableActivityTransitions()
+12-03 19:48:33.211  1191  1191 D MainActivity: Transitions Api was successfully registered.
+12-03 19:48:33.253  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 19:48:33.262  1191  1191 D MainActivity: Transition: STILL (ENTER)   19:48:33
+12-03 19:48:39.924   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:39.924   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:39.928   484   951 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:39.928   484   951 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:40.137   484   525 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-03 19:48:40.137   484   525 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-03 19:48:41.306   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-03 19:48:41.306   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-03 19:48:41.452   484   947 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{2764dfa token=Token{462e825 ActivityRecord{b54341c u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t182}}})/@0x38123d9 - animation-leash#0
+12-03 19:48:41.452   484   947 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{2764dfa token=Token{462e825 ActivityRecord{b54341c u0 com.google.example.android.basicactivityrecognitiontransitionsample/.MainActivity t182}}})/@0x38123d9 - animation-leash#0
+12-03 19:48:45.312   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:45.312   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:45.315   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:45.315   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-03 19:48:46.297   484   522 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-03 19:48:46.297   484   522 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-03 19:52:59.535  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 19:52:59.567  1191  1191 D MainActivity: Transition: STILL (EXIT)   19:52:59
+12-03 19:52:59.581  1191  1191 D MainActivity: Transition: WALKING (ENTER)   19:52:59
+12-03 19:53:39.543  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 19:53:39.635  1191  1191 D MainActivity: Transition: WALKING (EXIT)   19:53:39
+12-03 19:53:39.655  1191  1191 D MainActivity: Transition: STILL (ENTER)   19:53:39
+12-03 19:54:05.263  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 19:54:05.365  1191  1191 D MainActivity: Transition: STILL (EXIT)   19:54:05
+12-03 19:54:05.397  1191  1191 D MainActivity: Transition: WALKING (ENTER)   19:54:05
+12-03 20:01:22.404  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:01:22.455  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:01:22
+12-03 20:01:22.471  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:01:22
+12-03 20:01:51.862  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:01:51.896  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:01:51
+12-03 20:01:51.913  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:01:51
+12-03 20:05:05.047  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:05:05.117  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:05:05
+12-03 20:05:05.139  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:05:05
+12-03 20:05:27.171  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:05:27.184  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:05:27
+12-03 20:05:27.195  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:05:27
+12-03 20:07:25.321  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:07:25.332  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:07:25
+12-03 20:07:25.362  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:07:25
+12-03 20:09:08.234  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:09:08.295  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:09:08
+12-03 20:09:08.309  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:09:08
+12-03 20:10:44.931  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:10:44.959  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:10:44
+12-03 20:10:44.973  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:10:44
+12-03 20:11:24.881  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:11:24.916  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:11:24
+12-03 20:11:24.932  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:11:24
+12-03 20:21:01.209  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:21:01.239  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:21:01
+12-03 20:21:01.252  1191  1191 D MainActivity: Transition: UNKNOWN (ENTER)   20:21:01
+12-03 20:21:19.657  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:21:19.697  1191  1191 D MainActivity: Transition: UNKNOWN (EXIT)   20:21:19
+12-03 20:21:19.707  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:21:19
+12-03 20:22:47.736  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:22:47.762  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:22:47
+12-03 20:22:47.786  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:22:47
+12-03 20:23:29.115  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:23:29.141  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:23:29
+12-03 20:23:29.153  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:23:29
+12-03 20:31:29.752  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:31:29.772  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:31:29
+12-03 20:31:29.838  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:31:29
+12-03 20:31:47.990  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:31:48.020  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:31:47
+12-03 20:31:48.041  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:31:48
+12-03 20:32:39.782  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:32:39.810  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:32:39
+12-03 20:32:39.847  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:32:39
+12-03 20:36:46.402  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:36:46.429  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:36:46
+12-03 20:36:46.445  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:36:46
+12-03 20:38:01.014  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:38:01.062  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:38:01
+12-03 20:38:01.124  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:38:01
+12-03 20:38:41.460  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:38:41.489  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:38:41
+12-03 20:38:41.541  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:38:41
+12-03 20:41:13.990  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:41:14.003  1191  1191 D MainActivity: Transition: WALKING (EXIT)   20:41:13
+12-03 20:41:14.040  1191  1191 D MainActivity: Transition: STILL (ENTER)   20:41:14
+12-03 20:57:14.734  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 20:57:14.827  1191  1191 D MainActivity: Transition: STILL (EXIT)   20:57:14
+12-03 20:57:14.849  1191  1191 D MainActivity: Transition: WALKING (ENTER)   20:57:14
+12-03 21:00:08.699  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:00:08.743  1191  1191 D MainActivity: Transition: WALKING (EXIT)   21:00:08
+12-03 21:00:08.765  1191  1191 D MainActivity: Transition: STILL (ENTER)   21:00:08
+12-03 21:03:04.729  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:03:04.756  1191  1191 D MainActivity: Transition: STILL (EXIT)   21:03:04
+12-03 21:03:04.792  1191  1191 D MainActivity: Transition: WALKING (ENTER)   21:03:04
+12-03 21:04:49.863  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:04:49.885  1191  1191 D MainActivity: Transition: WALKING (EXIT)   21:04:49
+12-03 21:04:49.900  1191  1191 D MainActivity: Transition: STILL (ENTER)   21:04:49
+12-03 21:07:55.543  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:07:55.558  1191  1191 D MainActivity: Transition: STILL (EXIT)   21:07:55
+12-03 21:07:55.572  1191  1191 D MainActivity: Transition: WALKING (ENTER)   21:07:55
+12-03 21:17:31.885  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:17:31.905  1191  1191 D MainActivity: Transition: WALKING (EXIT)   21:17:31
+12-03 21:17:31.943  1191  1191 D MainActivity: Transition: STILL (ENTER)   21:17:31
+12-03 21:17:50.138  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:17:50.209  1191  1191 D MainActivity: Transition: STILL (EXIT)   21:17:50
+12-03 21:17:50.250  1191  1191 D MainActivity: Transition: WALKING (ENTER)   21:17:50
+12-03 21:18:46.969  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 21:18:47.024  1191  1191 D MainActivity: Transition: WALKING (EXIT)   21:18:46
+12-03 21:18:47.058  1191  1191 D MainActivity: Transition: STILL (ENTER)   21:18:47
+12-03 22:01:01.052  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 22:01:01.060  1191  1191 D MainActivity: Transition: STILL (EXIT)   22:01:01
+12-03 22:01:01.077  1191  1191 D MainActivity: Transition: WALKING (ENTER)   22:01:01
+12-03 22:01:54.571  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-03 22:01:54.599  1191  1191 D MainActivity: Transition: WALKING (EXIT)   22:01:54
+12-03 22:01:54.611  1191  1191 D MainActivity: Transition: STILL (ENTER)   22:01:54
+12-04 01:05:51.400  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:05:51.425  1191  1191 D MainActivity: Transition: STILL (EXIT)   01:05:51
+12-04 01:05:51.449  1191  1191 D MainActivity: Transition: WALKING (ENTER)   01:05:51
+12-04 01:07:17.186  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:07:17.220  1191  1191 D MainActivity: Transition: WALKING (EXIT)   01:07:17
+12-04 01:07:17.267  1191  1191 D MainActivity: Transition: STILL (ENTER)   01:07:17
+12-04 01:08:59.039  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:08:59.066  1191  1191 D MainActivity: Transition: STILL (EXIT)   01:08:59
+12-04 01:08:59.081  1191  1191 D MainActivity: Transition: WALKING (ENTER)   01:08:59
+12-04 01:10:04.904  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:10:04.985  1191  1191 D MainActivity: Transition: WALKING (EXIT)   01:10:04
+12-04 01:10:05.015  1191  1191 D MainActivity: Transition: STILL (ENTER)   01:10:04
+12-04 01:10:25.344   484   951 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:25.344   484   951 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:25.346   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:25.346   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:25.351   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:10:25.351   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:10:33.135   484   947 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:33.136   484   947 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:10:33.143   484   947 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:10:33.143   484   947 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:10:36.014   484  1342 W SurfaceFlinger: Attempting to set client state on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-04 01:10:36.014   484  1342 W SurfaceFlinger: Attempting to destroy on removed layer: com.google.example.android.basicactivityrecognitiontransitionsample/com.google.example.android.basicactivityrecognitiontransitionsample.MainActivity#0
+12-04 01:10:37.657   484   947 W SurfaceFlinger: Attempting to set client state on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:10:37.657   484   947 W SurfaceFlinger: Attempting to destroy on removed layer: Surface(name=AppWindowToken{bcc820f token=Token{e61bb6e ActivityRecord{69292e9 u0 edu.ucla.cs.zyuan.apps.weblatency/.MainActivity t181}}})/@0x47044d2 - animation-leash#0
+12-04 01:13:28.760  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:13:28.838  1191  1191 D MainActivity: Transition: STILL (EXIT)   01:13:28
+12-04 01:13:28.859  1191  1191 D MainActivity: Transition: WALKING (ENTER)   01:13:28
+12-04 01:22:50.093  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:22:50.124  1191  1191 D MainActivity: Transition: WALKING (EXIT)   01:22:50
+12-04 01:22:50.137  1191  1191 D MainActivity: Transition: STILL (ENTER)   01:22:50
+12-04 01:23:08.384  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:23:08.391  1191  1191 D MainActivity: Transition: STILL (EXIT)   01:23:08
+12-04 01:23:08.418  1191  1191 D MainActivity: Transition: WALKING (ENTER)   01:23:08
+12-04 01:28:05.704  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:28:05.731  1191  1191 D MainActivity: Transition: WALKING (EXIT)   01:28:05
+12-04 01:28:05.742  1191  1191 D MainActivity: Transition: STILL (ENTER)   01:28:05
+12-04 01:28:27.686  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:28:27.699  1191  1191 D MainActivity: Transition: STILL (EXIT)   01:28:27
+12-04 01:28:27.715  1191  1191 D MainActivity: Transition: WALKING (ENTER)   01:28:27
+12-04 01:32:15.337  1191  1191 D MainActivity: onReceive(): Intent { act=com.google.example.android.basicactivityrecognitiontransitionsampleTRANSITIONS_RECEIVER_ACTION flg=0x10 (has extras) }
+12-04 01:32:15.384  1191  1191 D MainActivity: Transition: WALKING (EXIT)   01:32:15
+12-04 01:32:15.405  1191  1191 D MainActivity: Transition: STILL (ENTER)   01:32:15
+12-04 01:33:38.129   484   947 W SurfaceFlinger: Attempting to set client state on removed layer: edu.ucla.cs.zyuan.apps.weblatency/edu.ucla.cs.zyuan.apps.weblatency.MainActivity#0
+12-04 01:33:38.129   484   947 W SurfaceFlinger: Attempting to destroy on removed layer: edu.ucla.cs
